@@ -4,11 +4,11 @@
 ## 训练效果见"train_result文件"
 
 ## 对于泊松图像编辑，初步实现了部分功能，尚未实现混合梯度，下面是三张图片的运行结果：
-![](data_poission\equation\image.png 'eg1')
+![](data_poission/equation/image.png 'eg1')
 
-![](data_poission\water\image2.png 'eg2')
+![](data_poission/water/image2.png 'eg2')
 
-![](data_poission\monolisa\image3.png 'eg3')
+![](data_poission/monolisa/image3.png 'eg3')
 
 ## 在模拟过程中，发现当图片若“过分”相似，则会返回模糊图片
-![](data_poission\equation\image1.png 'eg4')
+![](data_poission/equation/image1.png 'eg4')
